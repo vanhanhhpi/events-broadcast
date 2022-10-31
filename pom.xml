@@ -6,7 +6,7 @@
 
     <groupId>org.hpi.lib</groupId>
     <artifactId>event-broadcast</artifactId>
-    <version>0.2</version>
+    <version>1.0.0</version>
     <name>event-broadcast</name>
 
     <properties>
